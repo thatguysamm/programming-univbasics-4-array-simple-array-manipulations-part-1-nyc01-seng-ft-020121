@@ -12,4 +12,3 @@ def using_pop(string)
   continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
   deleted_string= continents.pop
 end
-puts using_pop
