@@ -13,3 +13,7 @@ end
 def pop_with_args(array)
   deleted_string= array.pop(2)
 end
+
+def using_shift(array)
+  new_array= array.shift
+end
