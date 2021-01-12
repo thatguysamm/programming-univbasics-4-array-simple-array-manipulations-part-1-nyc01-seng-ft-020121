@@ -11,5 +11,5 @@ def using_pop(array)
 end
 
 def pop_with_args(array)
-  deleted_string= array.pop[2]
+  deleted_string= array.pop[-2]
 end
