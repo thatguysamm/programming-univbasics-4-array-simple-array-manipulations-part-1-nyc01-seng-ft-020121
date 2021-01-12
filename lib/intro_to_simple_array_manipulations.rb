@@ -10,7 +10,6 @@ end
 
 def using_pop(array)
   continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
+  return eleted_string= continents.pop
   continents.length
-  eleted_string= continents.pop
-
 end
